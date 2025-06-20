@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=itzgangster&data=followers,repositories,stars,commits&theme=radical)](https://github.com/itzbeyonder)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=itzbeyonder&data=followers,repositories,stars,commits&theme=radical)](https://github.com/itzbeyonder)
 
 # Hi there 👋
 
